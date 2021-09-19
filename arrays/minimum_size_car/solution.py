@@ -1,5 +1,6 @@
 import math
 
+
 def days_required(car_size, weights):
     days = 1
     curr_capacity = 0
@@ -10,6 +11,7 @@ def days_required(car_size, weights):
         else:
             curr_capacity += weight
     return days
+
 
 def find_min_car_size(weights, days):
     min_car_size = max(weights)
