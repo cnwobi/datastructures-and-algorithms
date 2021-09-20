@@ -33,3 +33,5 @@ Guaranteed constraints:
 [output] array.string
 
 [Python 3] Syntax Tips
+
+Courtesy CodeSignal
